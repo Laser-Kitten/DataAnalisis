@@ -1,5 +1,5 @@
 # DataAnalisis
-## My projects from [Yandex.Practicum's] data-analyst course (https://practicum.yandex.com/data-analyst/)
+## My projects from [Yandex.Practicum's](https://practicum.yandex.com/data-analyst/) data-analyst course 
 
 
 ### Stack skills:
