@@ -3,10 +3,11 @@
 
 
 ### Stack skills:
-- <font color="blue"> Python
+- Python
 - Jupyter development environment
 - Data analysis: pandas, numpy, scipy, statsmodels libraries
 - Visualization: matplotlib, plotly, seaborn libraries, LaTex
-- Business metrics and KPIs. User data analysis
+- Business metrics and KPIs. User data analysis. Marketing analytics.
 - Cohort analysis. A/B testing
-- Statistical methods in Python </font>
+- Statistical methods in Python (t-test, z-test, u-test)
+
