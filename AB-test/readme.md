@@ -13,6 +13,6 @@ This data AB-test from online store. We need to prioritize hypotheses, analyze t
 - Python
 - Jupyter development environment
 - Data analysis: pandas, numpy, scipy
-- Visualization: matplotlib, seaborn
+- Visualization: matplotlib, seaborn, LaTex
 - AB tests. Prioritizing hypotheses (ICE, RICE)
 - Statistical methods in Python (Mann–Whitney U-test) 
