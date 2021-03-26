@@ -23,5 +23,5 @@ It is necessary to identify patterns based on the data and give marketing recomm
 - Jupyter development environment
 - Data analysis: pandas, numpy, scipy
 - Visualization: matplotlib, seaborn
-- Business metrics and KPIs. User data analysis
+- User data analysis
 - Statistical methods in Python (t-test) </font>
