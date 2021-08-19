@@ -4,7 +4,7 @@
 This data AAB-test from mobile app.
 
 ### Content
-    EventName — название события (заменим название столбца на event)
+    EventName — event`s name
     DeviceIDHash — user`s id 
     EventTimestamp — unix time
     ExpId — groups of test. 246 and 247 — AA-test groups, 248 — B-test group
