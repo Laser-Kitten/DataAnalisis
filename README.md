@@ -10,4 +10,5 @@
 - Business metrics and KPIs. User data analysis. Marketing analytics.
 - Cohort analysis. A/B testing
 - Statistical methods in Python (t-test, z-test, u-test)
+- SQL
 
